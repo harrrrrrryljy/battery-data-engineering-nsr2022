@@ -1,6 +1,4 @@
-# Battery-Data-Engineering-NSR2022
-
-# Battery Data Engineering: Feature Extraction from LDMs
+# Battery Informatics: LDM Database Engineering (NSR 2022)
 This repository contains the data processing pipeline used in our study published in **National Science Review (2022)**.
 
 ## 📌 Overview
