@@ -205,3 +205,9 @@ cython_debug/
 marimo/_static/
 marimo/_lsp/
 __marimo__/
+
+# Materials Science large files
+*.OUTCAR
+*.vasp
+*.log
+*.db
